@@ -1,0 +1,6 @@
+print("escolha um numero")
+n1= float(input())
+print("escolha outro numero")
+n2=float(input())
+med= round((n1+n2)/2, 2)
+print("a media entre",round(n1,2),"e",round(n2,2),"é", med)
